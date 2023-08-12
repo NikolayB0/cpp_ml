@@ -1,0 +1,8 @@
+CPP:
+[] C++ Primer Fifth Edition
+[] Embracing Modern C++ Safly
+
+ML:
+[] Pattern Recognition and Machine Learning
+[] Deep Learning
+[] Machine Learning A Probabilistic Perspecrive
